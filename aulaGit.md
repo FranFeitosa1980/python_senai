@@ -7,7 +7,9 @@
 |git add <arquivo>| manda os arquivos para a area de staging
 |git status | verifica o estado dos arquivos |
 |git config --global user.name 'nome'| configura o usuario git|
-|git config -- global user.email 'email'| configura o email do usuario git|
+|git config --global user.email 'email'| configura o email do usuario git|
 |git config --list | lista as configurações git |
-| git comit -m 'descrição do comit| 
-|git log| 
+|git comit -m 'descrição do comit| cria um ponto de restuaração do projeto |
+|git log| verifica historico de commit|
+|git checkout -b nome da branch| cria e muda de branch
+|git checkout nome da branch|  muda de uma branch para outra|
