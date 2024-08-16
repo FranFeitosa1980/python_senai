@@ -1,4 +1,4 @@
-# Curso de python 
+# Curso de python no Senai 
 
 Curso de capacitação python ofertado pelo programa Inovatech em parceria com o SENAI.
 
