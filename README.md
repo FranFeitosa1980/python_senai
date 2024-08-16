@@ -1,4 +1,4 @@
-# Curso de python 
+# Curso de python vespetino de 80h
 
 Curso de capacitação python ofertado pelo programa Inovatech em parceria com o SENAI.
 
