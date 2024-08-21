@@ -67,3 +67,4 @@ if not ((alladin == 'sim') or (jasmine == 'sim')):
     print('Love a noite toda')
 else:
     print('Não rolou encontro')  
+
