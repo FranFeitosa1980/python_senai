@@ -3,7 +3,7 @@
 palavra = str(input('Escreva uma palavra\n'))
 
 
-if len (palavra) <5:
+if len (palavra) >5:
     print('Esta palavra tem mais de 5 letras')
 
 else:
