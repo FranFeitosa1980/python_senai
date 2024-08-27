@@ -60,11 +60,11 @@
 
 # 
 
-alladin = input('Alladin apareceu? \n')
-jasmine = input('Jasmine apareceu? \n')
+# alladin = input('Alladin apareceu? \n')
+# jasmine = input('Jasmine apareceu? \n')
 
-if not ((alladin == 'sim') or (jasmine == 'sim')):
-    print('Love a noite toda')
-else:
-    print('Não rolou encontro')  
+# if not ((alladin == 'sim') or (jasmine == 'sim')):
+#     print('Love a noite toda')
+# else:
+#     print('Não rolou encontro')  
 

@@ -82,6 +82,7 @@
 #     nomes.append(nome)
 
 # print(nomes)
+
 # for nome in nomes:
 #     print(nome)
 
@@ -104,9 +105,9 @@
 #     print(contador)
 #     contador +=1
 
-numero = 10
-while True:
-    numero *=10
-    print(numero)
-    if numero >10000000:
-        break
+# numero = 10
+# while True:
+#     numero *=10
+#     print(numero)
+#     if numero >10000000:
+#         break
